@@ -159,3 +159,12 @@ header {
     font-size:18px;
 }
 
+/* FOOTER */
+
+footer {
+    background-color:#1F2937;
+    color:#E5E7EB;
+    text-align: center;
+    padding:15px;
+}
+
