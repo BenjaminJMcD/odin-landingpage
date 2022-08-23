@@ -73,6 +73,7 @@ header {
 .img-modal {
     display:flex;
     flex-wrap:wrap;
+    justify-content: center;;
 }
 
 .img-modal img {
@@ -94,4 +95,28 @@ header {
     text-align:center;
     margin-top:0;
 }
+
+/*SECTION THREE*/
+
+.section-three {
+    background-color:#E5E7EB;
+    padding:70px;
+}
+
+.quote {
+    font-size:36px;
+    font-style:italic;
+    color:#1F2937;
+    margin:0;
+}
+
+.thor {
+    margin:0;
+    color:#1F2937;
+    text-align:right;
+    padding-right:70px;
+    font-weight:900;
+}
+
+/*SECTION FOUR*/
 
